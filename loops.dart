@@ -23,7 +23,7 @@ void main()  {
   print("Pakistan");  
   for(int pak=0; pak<=nut; pak++) {
      print('i love Pakistan $pak');   }
- }
+ } 
  }
 
 
