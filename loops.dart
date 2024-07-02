@@ -19,8 +19,11 @@ void main()  {
     for(int pak=0; pak<=9; pak++) {
      print('i love Pakistan $pak'); // $pak will print numbers from 0 to 9 means 0 ,1, 2,3.....9
     }
- 
-
+ for (int nut=0; nut<=5; nut++ ){
+  print("Pakistan");  
+  for(int pak=0; pak<=nut; pak++) {
+     print('i love Pakistan $pak');   }
+ }
  }
 
 
